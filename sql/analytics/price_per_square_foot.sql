@@ -1,0 +1,1 @@
+SELECT * FROM sales_analysis.price_per_sqft;
